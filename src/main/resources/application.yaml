@@ -9,7 +9,7 @@ spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     druid:
-      url: url
+      url: 
       username:
       password: 
       driver-class-name: com.mysql.cj.jdbc.Driver
@@ -28,4 +28,4 @@ mybatis-plus:
 jwt:
   token:
     tokenExpiration: 120
-    tokenSignKey: sign
+    tokenSignKey: 
