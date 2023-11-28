@@ -1,0 +1,132 @@
+20230925_19:51:43.608 [c.a.Main] [INFO] Starting Main using Java 17.0.8 with PID 11852 (D:\maven-workspace\springboot-headline-part\target\classes started by 002 in D:\maven-workspace\springboot-headline-part)
+20230925_19:51:43.616 [c.a.Main] [INFO] No active profile set, falling back to 1 default profile: "default"
+20230925_19:51:44.327 [o.s.b.w.e.t.TomcatWebServer] [INFO] Tomcat initialized with port(s): 8080 (http)
+20230925_19:51:44.327 [o.a.c.c.AprLifecycleListener] [INFO] Loaded Apache Tomcat Native library [2.0.2] using APR version [1.7.0].
+20230925_19:51:44.331 [o.a.c.c.AprLifecycleListener] [INFO] OpenSSL successfully initialized [OpenSSL 3.0.7 1 Nov 2022]
+20230925_19:51:44.333 [o.a.c.h.Http11NioProtocol] [INFO] Initializing ProtocolHandler ["http-nio-8080"]
+20230925_19:51:44.333 [o.a.c.c.StandardService] [INFO] Starting service [Tomcat]
+20230925_19:51:44.333 [o.a.c.c.StandardEngine] [INFO] Starting Servlet engine: [Apache Tomcat/10.1.7]
+20230925_19:51:44.388 [o.a.c.c.C.[.[.[/]] [INFO] Initializing Spring embedded WebApplicationContext
+20230925_19:51:44.388 [o.s.b.w.s.c.ServletWebServerApplicationContext] [INFO] Root WebApplicationContext: initialization completed in 744 ms
+20230925_19:51:44.467 [c.a.d.s.b.a.DruidDataSourceAutoConfigure] [INFO] Init DruidDataSource
+20230925_19:51:44.759 [c.a.d.p.DruidDataSource] [INFO] {dataSource-1} inited
+20230925_19:51:45.274 [o.a.c.h.Http11NioProtocol] [INFO] Starting ProtocolHandler ["http-nio-8080"]
+20230925_19:51:45.293 [o.s.b.w.e.t.TomcatWebServer] [INFO] Tomcat started on port(s): 8080 (http) with context path ''
+20230925_19:51:45.300 [c.a.Main] [INFO] Started Main in 2.187 seconds (process running for 2.675)
+20230925_19:51:59.200 [o.a.c.c.C.[.[.[/]] [INFO] Initializing Spring DispatcherServlet 'dispatcherServlet'
+20230925_19:51:59.200 [o.s.w.s.DispatcherServlet] [INFO] Initializing Servlet 'dispatcherServlet'
+20230925_19:51:59.201 [o.s.w.s.DispatcherServlet] [INFO] Completed initialization in 1 ms
+20230925_20:00:56.734 [c.a.d.p.DruidDataSource] [INFO] {dataSource-1} closing ...
+20230925_20:00:56.738 [c.a.d.p.DruidDataSource] [INFO] {dataSource-1} closed
+20230925_20:01:00.841 [c.a.Main] [INFO] Starting Main using Java 17.0.8 with PID 31560 (D:\maven-workspace\springboot-headline-part\target\classes started by 002 in D:\maven-workspace\springboot-headline-part)
+20230925_20:01:00.843 [c.a.Main] [INFO] No active profile set, falling back to 1 default profile: "default"
+20230925_20:01:01.500 [o.s.b.w.e.t.TomcatWebServer] [INFO] Tomcat initialized with port(s): 8080 (http)
+20230925_20:01:01.501 [o.a.c.c.AprLifecycleListener] [INFO] Loaded Apache Tomcat Native library [2.0.2] using APR version [1.7.0].
+20230925_20:01:01.505 [o.a.c.c.AprLifecycleListener] [INFO] OpenSSL successfully initialized [OpenSSL 3.0.7 1 Nov 2022]
+20230925_20:01:01.510 [o.a.c.h.Http11NioProtocol] [INFO] Initializing ProtocolHandler ["http-nio-8080"]
+20230925_20:01:01.510 [o.a.c.c.StandardService] [INFO] Starting service [Tomcat]
+20230925_20:01:01.511 [o.a.c.c.StandardEngine] [INFO] Starting Servlet engine: [Apache Tomcat/10.1.7]
+20230925_20:01:01.579 [o.a.c.c.C.[.[.[/]] [INFO] Initializing Spring embedded WebApplicationContext
+20230925_20:01:01.579 [o.s.b.w.s.c.ServletWebServerApplicationContext] [INFO] Root WebApplicationContext: initialization completed in 711 ms
+20230925_20:01:01.651 [c.a.d.s.b.a.DruidDataSourceAutoConfigure] [INFO] Init DruidDataSource
+20230925_20:01:01.915 [c.a.d.p.DruidDataSource] [INFO] {dataSource-1} inited
+20230925_20:01:02.366 [o.a.c.h.Http11NioProtocol] [INFO] Starting ProtocolHandler ["http-nio-8080"]
+20230925_20:01:02.383 [o.s.b.w.e.t.TomcatWebServer] [INFO] Tomcat started on port(s): 8080 (http) with context path ''
+20230925_20:01:02.394 [c.a.Main] [INFO] Started Main in 1.882 seconds (process running for 2.35)
+20230925_20:01:07.123 [o.a.c.c.C.[.[.[/]] [INFO] Initializing Spring DispatcherServlet 'dispatcherServlet'
+20230925_20:01:07.123 [o.s.w.s.DispatcherServlet] [INFO] Initializing Servlet 'dispatcherServlet'
+20230925_20:01:07.124 [o.s.w.s.DispatcherServlet] [INFO] Completed initialization in 0 ms
+20230925_20:01:36.861 [c.a.d.p.DruidDataSource] [INFO] {dataSource-1} closing ...
+20230925_20:01:36.864 [c.a.d.p.DruidDataSource] [INFO] {dataSource-1} closed
+20230925_20:01:40.982 [c.a.Main] [INFO] Starting Main using Java 17.0.8 with PID 26420 (D:\maven-workspace\springboot-headline-part\target\classes started by 002 in D:\maven-workspace\springboot-headline-part)
+20230925_20:01:40.984 [c.a.Main] [INFO] No active profile set, falling back to 1 default profile: "default"
+20230925_20:01:41.653 [o.s.b.w.e.t.TomcatWebServer] [INFO] Tomcat initialized with port(s): 8080 (http)
+20230925_20:01:41.654 [o.a.c.c.AprLifecycleListener] [INFO] Loaded Apache Tomcat Native library [2.0.2] using APR version [1.7.0].
+20230925_20:01:41.657 [o.a.c.c.AprLifecycleListener] [INFO] OpenSSL successfully initialized [OpenSSL 3.0.7 1 Nov 2022]
+20230925_20:01:41.663 [o.a.c.h.Http11NioProtocol] [INFO] Initializing ProtocolHandler ["http-nio-8080"]
+20230925_20:01:41.664 [o.a.c.c.StandardService] [INFO] Starting service [Tomcat]
+20230925_20:01:41.664 [o.a.c.c.StandardEngine] [INFO] Starting Servlet engine: [Apache Tomcat/10.1.7]
+20230925_20:01:41.724 [o.a.c.c.C.[.[.[/]] [INFO] Initializing Spring embedded WebApplicationContext
+20230925_20:01:41.725 [o.s.b.w.s.c.ServletWebServerApplicationContext] [INFO] Root WebApplicationContext: initialization completed in 716 ms
+20230925_20:01:41.795 [c.a.d.s.b.a.DruidDataSourceAutoConfigure] [INFO] Init DruidDataSource
+20230925_20:01:42.057 [c.a.d.p.DruidDataSource] [INFO] {dataSource-1} inited
+20230925_20:01:42.543 [o.a.c.h.Http11NioProtocol] [INFO] Starting ProtocolHandler ["http-nio-8080"]
+20230925_20:01:42.563 [o.s.b.w.e.t.TomcatWebServer] [INFO] Tomcat started on port(s): 8080 (http) with context path ''
+20230925_20:01:42.574 [c.a.Main] [INFO] Started Main in 2.019 seconds (process running for 2.513)
+20230925_20:05:08.298 [c.a.d.p.DruidDataSource] [INFO] {dataSource-1} closing ...
+20230925_20:05:08.302 [c.a.d.p.DruidDataSource] [INFO] {dataSource-1} closed
+20230925_20:05:12.558 [c.a.Main] [INFO] Starting Main using Java 17.0.8 with PID 35024 (D:\maven-workspace\springboot-headline-part\target\classes started by 002 in D:\maven-workspace\springboot-headline-part)
+20230925_20:05:12.560 [c.a.Main] [INFO] No active profile set, falling back to 1 default profile: "default"
+20230925_20:05:13.266 [o.s.b.w.e.t.TomcatWebServer] [INFO] Tomcat initialized with port(s): 8080 (http)
+20230925_20:05:13.266 [o.a.c.c.AprLifecycleListener] [INFO] Loaded Apache Tomcat Native library [2.0.2] using APR version [1.7.0].
+20230925_20:05:13.270 [o.a.c.c.AprLifecycleListener] [INFO] OpenSSL successfully initialized [OpenSSL 3.0.7 1 Nov 2022]
+20230925_20:05:13.274 [o.a.c.h.Http11NioProtocol] [INFO] Initializing ProtocolHandler ["http-nio-8080"]
+20230925_20:05:13.276 [o.a.c.c.StandardService] [INFO] Starting service [Tomcat]
+20230925_20:05:13.276 [o.a.c.c.StandardEngine] [INFO] Starting Servlet engine: [Apache Tomcat/10.1.7]
+20230925_20:05:13.338 [o.a.c.c.C.[.[.[/]] [INFO] Initializing Spring embedded WebApplicationContext
+20230925_20:05:13.339 [o.s.b.w.s.c.ServletWebServerApplicationContext] [INFO] Root WebApplicationContext: initialization completed in 753 ms
+20230925_20:05:13.412 [c.a.d.s.b.a.DruidDataSourceAutoConfigure] [INFO] Init DruidDataSource
+20230925_20:05:13.666 [c.a.d.p.DruidDataSource] [INFO] {dataSource-1} inited
+20230925_20:05:14.118 [o.a.c.h.Http11NioProtocol] [INFO] Starting ProtocolHandler ["http-nio-8080"]
+20230925_20:05:14.136 [o.s.b.w.e.t.TomcatWebServer] [INFO] Tomcat started on port(s): 8080 (http) with context path ''
+20230925_20:05:14.143 [c.a.Main] [INFO] Started Main in 1.922 seconds (process running for 2.403)
+20230925_20:05:22.813 [o.a.c.c.C.[.[.[/]] [INFO] Initializing Spring DispatcherServlet 'dispatcherServlet'
+20230925_20:05:22.813 [o.s.w.s.DispatcherServlet] [INFO] Initializing Servlet 'dispatcherServlet'
+20230925_20:05:22.814 [o.s.w.s.DispatcherServlet] [INFO] Completed initialization in 1 ms
+20230925_20:08:51.299 [c.a.d.p.DruidDataSource] [INFO] {dataSource-1} closing ...
+20230925_20:08:51.301 [c.a.d.p.DruidDataSource] [INFO] {dataSource-1} closed
+20230925_20:08:55.429 [c.a.Main] [INFO] Starting Main using Java 17.0.8 with PID 28928 (D:\maven-workspace\springboot-headline-part\target\classes started by 002 in D:\maven-workspace\springboot-headline-part)
+20230925_20:08:55.435 [c.a.Main] [INFO] No active profile set, falling back to 1 default profile: "default"
+20230925_20:08:56.093 [o.s.b.w.e.t.TomcatWebServer] [INFO] Tomcat initialized with port(s): 8080 (http)
+20230925_20:08:56.094 [o.a.c.c.AprLifecycleListener] [INFO] Loaded Apache Tomcat Native library [2.0.2] using APR version [1.7.0].
+20230925_20:08:56.097 [o.a.c.c.AprLifecycleListener] [INFO] OpenSSL successfully initialized [OpenSSL 3.0.7 1 Nov 2022]
+20230925_20:08:56.103 [o.a.c.h.Http11NioProtocol] [INFO] Initializing ProtocolHandler ["http-nio-8080"]
+20230925_20:08:56.103 [o.a.c.c.StandardService] [INFO] Starting service [Tomcat]
+20230925_20:08:56.104 [o.a.c.c.StandardEngine] [INFO] Starting Servlet engine: [Apache Tomcat/10.1.7]
+20230925_20:08:56.171 [o.a.c.c.C.[.[.[/]] [INFO] Initializing Spring embedded WebApplicationContext
+20230925_20:08:56.172 [o.s.b.w.s.c.ServletWebServerApplicationContext] [INFO] Root WebApplicationContext: initialization completed in 711 ms
+20230925_20:08:56.249 [c.a.d.s.b.a.DruidDataSourceAutoConfigure] [INFO] Init DruidDataSource
+20230925_20:08:56.530 [c.a.d.p.DruidDataSource] [INFO] {dataSource-1} inited
+20230925_20:08:57.056 [o.a.c.h.Http11NioProtocol] [INFO] Starting ProtocolHandler ["http-nio-8080"]
+20230925_20:08:57.074 [o.s.b.w.e.t.TomcatWebServer] [INFO] Tomcat started on port(s): 8080 (http) with context path ''
+20230925_20:08:57.083 [c.a.Main] [INFO] Started Main in 1.989 seconds (process running for 2.483)
+20230925_20:10:30.987 [o.a.c.c.C.[.[.[/]] [INFO] Initializing Spring DispatcherServlet 'dispatcherServlet'
+20230925_20:10:30.988 [o.s.w.s.DispatcherServlet] [INFO] Initializing Servlet 'dispatcherServlet'
+20230925_20:10:30.989 [o.s.w.s.DispatcherServlet] [INFO] Completed initialization in 1 ms
+20230925_20:11:24.180 [c.a.d.p.DruidDataSource] [INFO] {dataSource-1} closing ...
+20230925_20:11:24.183 [c.a.d.p.DruidDataSource] [INFO] {dataSource-1} closed
+20230925_20:11:28.167 [c.a.Main] [INFO] Starting Main using Java 17.0.8 with PID 44120 (D:\maven-workspace\springboot-headline-part\target\classes started by 002 in D:\maven-workspace\springboot-headline-part)
+20230925_20:11:28.172 [c.a.Main] [INFO] No active profile set, falling back to 1 default profile: "default"
+20230925_20:11:28.815 [o.s.b.w.e.t.TomcatWebServer] [INFO] Tomcat initialized with port(s): 8080 (http)
+20230925_20:11:28.816 [o.a.c.c.AprLifecycleListener] [INFO] Loaded Apache Tomcat Native library [2.0.2] using APR version [1.7.0].
+20230925_20:11:28.819 [o.a.c.c.AprLifecycleListener] [INFO] OpenSSL successfully initialized [OpenSSL 3.0.7 1 Nov 2022]
+20230925_20:11:28.824 [o.a.c.h.Http11NioProtocol] [INFO] Initializing ProtocolHandler ["http-nio-8080"]
+20230925_20:11:28.824 [o.a.c.c.StandardService] [INFO] Starting service [Tomcat]
+20230925_20:11:28.824 [o.a.c.c.StandardEngine] [INFO] Starting Servlet engine: [Apache Tomcat/10.1.7]
+20230925_20:11:28.886 [o.a.c.c.C.[.[.[/]] [INFO] Initializing Spring embedded WebApplicationContext
+20230925_20:11:28.886 [o.s.b.w.s.c.ServletWebServerApplicationContext] [INFO] Root WebApplicationContext: initialization completed in 688 ms
+20230925_20:11:28.958 [c.a.d.s.b.a.DruidDataSourceAutoConfigure] [INFO] Init DruidDataSource
+20230925_20:11:29.208 [c.a.d.p.DruidDataSource] [INFO] {dataSource-1} inited
+20230925_20:11:29.309 [c.a.d.p.DruidDataSource] [INFO] {dataSource-1} closing ...
+20230925_20:11:29.312 [c.a.d.p.DruidDataSource] [INFO] {dataSource-1} closed
+20230925_20:11:29.313 [o.a.c.c.StandardService] [INFO] Stopping service [Tomcat]
+20230925_20:12:07.486 [c.a.Main] [INFO] Starting Main using Java 17.0.8 with PID 17700 (D:\maven-workspace\springboot-headline-part\target\classes started by 002 in D:\maven-workspace\springboot-headline-part)
+20230925_20:12:07.491 [c.a.Main] [INFO] No active profile set, falling back to 1 default profile: "default"
+20230925_20:12:08.136 [o.s.b.w.e.t.TomcatWebServer] [INFO] Tomcat initialized with port(s): 8080 (http)
+20230925_20:12:08.137 [o.a.c.c.AprLifecycleListener] [INFO] Loaded Apache Tomcat Native library [2.0.2] using APR version [1.7.0].
+20230925_20:12:08.140 [o.a.c.c.AprLifecycleListener] [INFO] OpenSSL successfully initialized [OpenSSL 3.0.7 1 Nov 2022]
+20230925_20:12:08.145 [o.a.c.h.Http11NioProtocol] [INFO] Initializing ProtocolHandler ["http-nio-8080"]
+20230925_20:12:08.147 [o.a.c.c.StandardService] [INFO] Starting service [Tomcat]
+20230925_20:12:08.147 [o.a.c.c.StandardEngine] [INFO] Starting Servlet engine: [Apache Tomcat/10.1.7]
+20230925_20:12:08.209 [o.a.c.c.C.[.[.[/]] [INFO] Initializing Spring embedded WebApplicationContext
+20230925_20:12:08.209 [o.s.b.w.s.c.ServletWebServerApplicationContext] [INFO] Root WebApplicationContext: initialization completed in 691 ms
+20230925_20:12:08.279 [c.a.d.s.b.a.DruidDataSourceAutoConfigure] [INFO] Init DruidDataSource
+20230925_20:12:08.537 [c.a.d.p.DruidDataSource] [INFO] {dataSource-1} inited
+20230925_20:12:09.046 [o.a.c.h.Http11NioProtocol] [INFO] Starting ProtocolHandler ["http-nio-8080"]
+20230925_20:12:09.064 [o.s.b.w.e.t.TomcatWebServer] [INFO] Tomcat started on port(s): 8080 (http) with context path ''
+20230925_20:12:09.078 [c.a.Main] [INFO] Started Main in 1.912 seconds (process running for 2.365)
+20230925_20:12:13.004 [o.a.c.c.C.[.[.[/]] [INFO] Initializing Spring DispatcherServlet 'dispatcherServlet'
+20230925_20:12:13.005 [o.s.w.s.DispatcherServlet] [INFO] Initializing Servlet 'dispatcherServlet'
+20230925_20:12:13.006 [o.s.w.s.DispatcherServlet] [INFO] Completed initialization in 1 ms
+20230925_20:13:59.751 [c.a.d.p.DruidDataSource] [INFO] {dataSource-1} closing ...
+20230925_20:13:59.754 [c.a.d.p.DruidDataSource] [INFO] {dataSource-1} closed
