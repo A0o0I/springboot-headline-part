@@ -28,4 +28,4 @@ mybatis-plus:
 jwt:
   token:
     tokenExpiration: 120
-    tokenSignKey:
+    tokenSignKey: sign
